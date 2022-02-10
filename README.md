@@ -1,7 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://insights.dice.com/wp-content/uploads/2021/03/shutterstock_1536573389.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 style="text-align:center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bindharan</h1>
-<h3  style="text-align:center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 style=" text-align: center;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bindharan</h1>
+<h3  style=" text-align: center;">I'm a passionate Full Stack Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
