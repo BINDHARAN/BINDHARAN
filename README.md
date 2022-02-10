@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p  align="center" ><img width="40%" height="auto" src="https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif" height="175px"/></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bindharan</h1>
 <h3  align="center">I'm a passionate Full Stack Developer from India.</h3>
@@ -39,7 +39,9 @@
 <img alt="contribution" src="https://raw.githubusercontent.com/ragavkumarv/ragavkumarv/aacd16770065d3e74ca60fa2b021fbbf6337bf19/github-contribution-grid-snake.svg" />
 
 
-<br/>
+
+
+## 📊 My Github Stats
 
 <p  align="center">
     <a href="https://github.com/BINDHARAN/github-readme-streak-stats">
@@ -47,7 +49,6 @@
     </a>
 </p>
 
-## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/BINDHARAN/github-readme-stats"><img alt="BINDHARAN Github Stats" src="https://github-readme-stats.vercel.app/api?username=BINDHARAN&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
